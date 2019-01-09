@@ -4,4 +4,7 @@
 __General course info.__
 
 - Syllabus - [pdf](doc/syllabus_v01.pdf)
+- Project - [pdf](doc/capston.pdf)
+
+__Python basics with colab__
 - Evironment setups with GitHub and Colab - [ipynb](src/first_notebook_v01.ipynb)
