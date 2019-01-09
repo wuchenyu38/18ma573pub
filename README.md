@@ -8,3 +8,4 @@ __General course info.__
 
 __Python basics with colab__
 - Evironment setups with GitHub and Colab - [ipynb](src/first_notebook_v01.ipynb)
+- Python notebook introduction - [ipynb](src/python_notebook.ipynb)
