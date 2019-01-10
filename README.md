@@ -11,4 +11,4 @@ __Python basics with colab__
 - Pandas basics - [ipynb](src/pandas_basics_v01.ipynb)
 
 __Finite difference operators with python functions__
-- First order finite difference
+- First order finite difference - [ipynb](src/first_fd_v01.ipynb)
