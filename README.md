@@ -9,3 +9,6 @@ __Python basics with colab__
 - Evironment setups with GitHub and Colab - [ipynb](src/first_notebook_v01.ipynb)
 - Python notebook introduction - [ipynb](src/python_notebook.ipynb)
 - Pandas basics - [ipynb](src/pandas_basics_v01.ipynb)
+
+__Finite difference operators with python functions__
+- First order finite difference
