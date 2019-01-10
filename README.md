@@ -12,3 +12,6 @@ __Python basics with colab__
 
 __Finite difference operators with python functions__
 - First order finite difference - [ipynb](src/first_fd_v01.ipynb)
+- Convergence order - [ipynb](src/ffd_convergence_rate_v01.ipynb)
+
+
