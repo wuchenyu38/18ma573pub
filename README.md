@@ -13,9 +13,8 @@ __Python basics with colab__
 __Finite difference operators with python functions__
 - First order finite difference - [ipynb](src/first_fd_v01.ipynb)
 - Convergence order - [ipynb](src/ffd_convergence_rate_v01.ipynb)
-- (hw) Second order finite difference operator - [ipynb](src/second_fd.ipynb) 
-  - soln - [ipynb](src/second_fd_soln.ipynb)
-- (hw) Higher order finite difference - [ipynb](src/ex_fd.ipynb)
-    - soln - [ipynb](src/ex_fd_soln.ipynb)
+- (hw) Second order finite difference operator - [ipynb](src/second_fd_v01.ipynb) 
+- (hw) Higher order finite difference - [ipynb](src/ex_fd_v01.ipynb)
+
 
 
