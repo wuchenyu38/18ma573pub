@@ -17,5 +17,6 @@ __Finite difference operators with python functions__
 - (hw) Second order finite difference operator - [ipynb](src/second_fd_v01.ipynb) 
 - (hw) Higher order finite difference - [ipynb](src/ex_fd_v01.ipynb)
 
-
+__BSM option price__
+- European call/put option class - [ipynb](src/european_options_class.ipynb)
 
