@@ -19,6 +19,7 @@ Next, we create call/put class
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 '''=========
 option class init
 =========='''
