@@ -5,4 +5,4 @@ the previous bsm_formula notebook - [ipynb](https://github.com/songqsh/18ma573pu
 
 - create "european_options_class.py" by copy/paste of "European_Option" class in the previous 
 [ipynb](src/european_options_class.ipynb)
-- Similarly create "sde_class.py" by cutting relevant code to the Gbm class from [ipynb](src/bsm_formula_v01.ipynb)
+- Similarly create "sde_class.py" by cutting relevant code to the Gbm class from [ipynb](../src/bsm_formula_v01.ipynb)
