@@ -38,24 +38,3 @@ class EuropeanOption:
         k = self.strike
         maturity = self.maturity
         return np.max([0, (s - k)*otype])
-
-"""__Test__
-
-We will use a few examples to test the above class.
-
-__ex__
-
-plot payoff diagram of 40-strike call as a function of exercise price.
-"""
-
-#create option instance, maturity is just arbitrarily given
-option1 = EuropeanOption(otype = 1, strike = 40, maturity= 1.) 
-ss = np.arange(20,61) #exercise price
-payoff = [option1.payoff(s) for s in ss] #compute payoff
-plt.plot(ss, payoff)
-plt.xlabel('exercise price')
-plt.ylabel('payoff')
-plt.title('40-strike call');
-
-
-
