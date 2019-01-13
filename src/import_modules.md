@@ -12,5 +12,6 @@ the previous bsm_formula notebook - [ipynb](../src/bsm_formula_v01.ipynb)
     - Then save it as [src/sde_class.py](../src/sde_class.py).  
 - When we reproduce [ipynb](../src/bsm_formula_v01.ipynb), 
     - first delelte all codes included in the above two py files, 
-    - then git clone the entire repo, and change your current directory to the "src" folder, then import py files.
+    - then git clone the entire repo, and change your current directory to the "src" folder, 
+    - then import py files.
 - At last, do not forget all class members to be specified after its class, see [ipynb](../src/bsm_formula_v02.ipynb)
