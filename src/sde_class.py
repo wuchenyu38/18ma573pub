@@ -84,13 +84,3 @@ def bsm_price(self, european_option):
             - otype * np.exp(-r * maturity) * k * ss.norm.cdf(otype * d2))
 
 Gbm.bsm_price = bsm_price
-
-'''===============
-Test bsm_price
-================='''
-gbm1 = Gbm()
-option1 = EuropeanOption()
-print('>>>>>>>>>>call value is ' + str(gbm1.bsm_price(option1)))
-option2 = EuropeanOption(otype=-1)
-print('>>>>>>>>>>put value is ' + str(gbm1.bsm_price(option2)))
-
