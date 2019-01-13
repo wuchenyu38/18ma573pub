@@ -22,5 +22,5 @@ __BSM option price__
   - (hw) payoff diagram of butterfly - [ipynb](src/option_combinations.ipynb)
 - BSM formula - [ipynb](src/bsm_formula_v01.ipynb), [pdf](doc/bsm_formula_v01.ipynb.pdf)
   - (hw) Bsm price change [ipynb](src/bsm_price_change.ipynb)
-- Importing files - [md](src/import_file.md)
+- Importing modules - [md](src/import_modules.md)
 
