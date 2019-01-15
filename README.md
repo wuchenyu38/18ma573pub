@@ -26,6 +26,6 @@ __BSM option price__
 
 __Volatility calibration__
 
-- Implied volatility - [ipynb](src/implied_vol.ipynb)
+- Implied volatility - [ipynb](src/implied_vol_v01.ipynb)
   - (hw) IV - [ipynb](src/hw_implied_vol.ipynb)
 - Volatility smile - [ipynb](src/vol_smile.ipynb)
