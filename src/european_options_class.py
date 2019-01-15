@@ -16,26 +16,25 @@ $$P(S, K)= (S - K)^- = \max\{-S+ K, 0\}.$$
 Next, we create call/put class
 """
 
-import numpy as np
-import matplotlib.pyplot as plt
-
-
 '''=========
 option class init
 =========='''
-class EuropeanOption:
-    def __init__(self,
-                otype = 1, # 1: 'call'
-                            # -1: 'put'
-                strike = 110.,
-                maturity = 1.
-                ):
-        self.otype = otype
-        self.strike = strike
-        self.maturity = maturity
+class VanillaOption:
+    def __init__(
+        self,
+        otype = 1, # 1: 'call'
+                  # -1: 'put'
+        strike = 110.,
+        maturity = 1.,
+        market_price = 10.):
+      self.otype = otype
+      self.strike = strike
+      self.maturity = maturity
+      self.market_price = market_price #this will be used for calibration
+      
         
     def payoff(self, s): #s: excercise price
-        otype = self.otype
-        k = self.strike
-        maturity = self.maturity
-        return np.max([0, (s - k)*otype])
+      otype = self.otype
+      k = self.strike
+      maturity = self.maturity
+      return np.max([0, (s - k)*otype])
