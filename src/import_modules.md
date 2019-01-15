@@ -3,7 +3,7 @@ Tired? Now we are going to wrap those useful classes into py files and simply im
 Next, we follow these steps below to reproduce 
 the previous bsm_formula notebook - [ipynb](../src/bsm_formula_v01.ipynb)
 
-- copy/paste  "EuropeanOption" class in the previous 
+- copy/paste  "VanillaOption" class in the previous 
   [ipynb](../src/european_options_class.ipynb), and save it as 
   [src/european_options_class.py](../src/european_options_class.py).
 - Similarly, 
