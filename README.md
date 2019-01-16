@@ -20,7 +20,7 @@ __Finite difference operators with python functions__
 __BSM option price__
 - European call/put option class - [ipynb](src/european_options_class.ipynb)
   - (hw) payoff diagram of butterfly - 
-  [ipynb](https://nbviewer.jupyter.org/github/songqsh/18ma573pub/blob/master/src/bsm_formula_v01.ipynb)
+  [ipynb](src/option_combinations.ipynb)
 - BSM formula - [ipynb](src/bsm_formula_v01.ipynb), [pdf](doc/bsm_formula_v01.ipynb.pdf)
   - (hw) Bsm price change - [ipynb](src/bsm_price_change.ipynb)
 - Importing modules - [md](src/import_modules.md)
