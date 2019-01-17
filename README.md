@@ -10,6 +10,13 @@ __Python basics with colab__
 - Python notebook introduction - [ipynb](src/python_notebook.ipynb)
 - Pandas basics - [ipynb](src/pandas_basics_v01.ipynb)
   - (hw) GitHub+Colab setup - [ipynb](src/hw_github_colab.ipynb)
+    - Solns: 
+      [Thomas](https://github.com/TALeonard/19ma573thomasleonard)
+      [Ziyuan](https://github.com/ZiyueNie/19ma573ZiyueNie)
+      [Emily](https://github.com/hechen2020/19ma573HuixinChen)
+      [Chenyu](https://github.com/wuchenyu38/18ma573chenyuwu)
+      [Wenhao](https://github.com/wqiu96/19ma573WenhaoQIU)
+      [Zhiyuan](https://github.com/ZhyShe/18ma573ZhiyuanShe)
 
 __Finite difference operators with python functions__
 - First order finite difference - [ipynb](src/first_fd_v01.ipynb)
