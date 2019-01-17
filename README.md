@@ -10,7 +10,7 @@ __Python basics with colab__
 - Python notebook introduction - [ipynb](src/python_notebook.ipynb)
 - Pandas basics - [ipynb](src/pandas_basics_v01.ipynb)
   - (hw) GitHub+Colab setup - [ipynb](src/hw_github_colab.ipynb)
-    - Solns: 
+    - (Solns)
       [Thomas](https://github.com/TALeonard/19ma573thomasleonard),
       [Ziyuan](https://github.com/ZiyueNie/19ma573ZiyueNie),
       [Emily](https://github.com/hechen2020/19ma573HuixinChen),
