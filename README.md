@@ -15,7 +15,7 @@ __Python basics with colab__
       [Thomas](https://github.com/TALeonard/19ma573thomasleonard),
       [Zhiyuan](https://github.com/ZhyShe/18ma573ZhiyuanShe),
       [Wenhao](https://github.com/wqiu96/19ma573WenhaoQIU),
-      [Ziyuan](https://github.com/ZiyueNie/19ma573ZiyueNie),
+      [Ziyue](https://github.com/ZiyueNie/19ma573ZiyueNie),
       [Chenyu](https://github.com/wuchenyu38/18ma573chenyuwu),
 
       
